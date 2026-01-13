@@ -36,4 +36,7 @@ When I’m not coding, I’m navigating the open road as a professional driver. 
 📫 **Reach out:** [Codesbydj@gmail.com](mailto:Codesbydj@gmail.com)
 🔗 **Portfolio:** [CodesByDJ.com](https://CodesByDJ.com)
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codesbydj&show_icons=true&theme=radical)
+
 ---
