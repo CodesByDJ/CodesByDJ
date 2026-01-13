@@ -34,6 +34,6 @@ I build high-performance, responsive, and bulletproof email templates and web in
 When I’m not coding, I’m navigating the open road as a professional driver. This unique perspective has taught me extreme discipline, time management, and how to build projects while literally on the move. I’m currently looking to transition into a full-time Front-End or Email Development role.
 
 📫 **Reach out:** [Codesbydj@gmail.com](mailto:Codesbydj@gmail.com)
-🔗 **Portfolio:** [CodesByDJL.com](https://CodesByDJ.com)
+🔗 **Portfolio:** [CodesByDJ.com](https://CodesByDJ.com)
 
 ---
